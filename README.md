@@ -1,6 +1,7 @@
 Software Carpentry Bootcamps
 ============================
 
+xxxx
 This repository's `gh-pages` branch is the starting point for a bootcamp website.
 It contains a template for your bootcamp's home page,
 and the shared lesson materials we have developed.
